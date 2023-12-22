@@ -1,4 +1,10 @@
-h1 {
+body {
+    height: 500px;
+    width: 500px;
+    background-color: rgb(200, 0, 0);
+}
+
+header {
     height: 60px;
     width: 200px;
     font-size: 40px;

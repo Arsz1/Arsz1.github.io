@@ -4,7 +4,7 @@ body {
     background-color: rgb(200, 0, 0);
 }
 
-header {
+h1 {
     height: 60px;
     width: 200px;
     font-size: 40px;

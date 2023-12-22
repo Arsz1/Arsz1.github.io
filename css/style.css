@@ -9,6 +9,7 @@ header {
     width: 200px;
     font-size: 40px;
     color: dark;
+    background-color: rgb(200, 0, 0)
     text-align: center;
 }
 

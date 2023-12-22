@@ -13,14 +13,11 @@ header {
 }
 
 header img {
-  padding-top: 50px;
-  margin-bottom: 10px;
   font-size: 50px;
   text-align: left;
 }
 
 header h1 {
-  padding-top: 250px;
   font-size: 40px;
   text-align: center;
 }
